@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\user\Desktop\學校\visual studio\Project2\MyForm.h(366,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\學校\visual studio\Project2\MyForm.h(378,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\學校\visual studio\Project2\MyForm.cpp(8,41): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project2.vcxproj -> C:\Users\user\Desktop\學校\visual studio\Project2\Debug\Project2.exe

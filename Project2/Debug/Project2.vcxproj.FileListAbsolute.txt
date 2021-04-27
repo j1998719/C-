@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\學校\visual studio\Project2\Debug\Project2.vcxprojAssemblyReference.cache
+C:\Users\user\Desktop\學校\visual studio\Project2\Debug\Project2.exe
+C:\Users\user\Desktop\學校\visual studio\Project2\Debug\Project2.MyForm.resources
+C:\Users\user\Desktop\學校\visual studio\Project2\Debug\Project2.vcxproj.GenerateResource.cache
